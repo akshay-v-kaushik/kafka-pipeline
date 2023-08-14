@@ -17,5 +17,3 @@ python producer_app.py
 ```
 python consumer_app.py
 ```
-### Associated Article
-you can go through the [medium article](https://medium.com/@ms.neerajkrishna/kafka-in-action-building-a-distributed-multi-video-processing-pipeline-with-python-and-confluent-9f133858f5a0) for more details
